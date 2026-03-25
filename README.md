@@ -48,21 +48,16 @@
 
 | 分支 | 内容 |
 |------|------|
-| [`learning-and-planning`](../../tree/learning-and-planning) | 学习笔记、方向规划、论文阅读 |
-| [`creative-experiments`](../../tree/creative-experiments) | 奇思妙想的实验与实践项目 |
-| [`about-me`](../../tree/about-me) | 关于我的故事与成长记录 |
-
-```
-main
-├── learning-and-planning/   # 学习与规划
-│   ├── notes/               # 学习笔记
-│   ├── roadmap/             # 路线规划
-│   └── papers/              # 论文阅读笔记
-├── creative-experiments/    # 奇思妙想的实践库
-│   ├── experiments/         # 实验代码
-│   └── projects/            # 实践项目
-└── about-me/                # 关于我
-```
+| 分支 | 文件夹 | 说明 |
+|------|--------|------|
+| [`learning-and-planning`](../../tree/learning-and-planning) | `学习规划/` | 学习方向与路线规划 |
+| | `资源库/` | 学习资料与参考资源 |
+| | `反思/` | 阶段性总结与反思 |
+| [`creative-experiments`](../../tree/creative-experiments) | `大模型/` | 大模型相关实验 |
+| | `游戏/` | 游戏开发实践 |
+| | `工具/` | 实用工具开发 |
+| [`about-me`](../../tree/about-me) | `outlook/` | 展望与愿景（公开可见） |
+| | `deepseek/` | 深度思考（仅受允许的用户可查看） |
 
 ## 技术栈
 

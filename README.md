@@ -44,13 +44,24 @@
 
 ## 项目结构
 
+本项目按主题拆分为三个分支：
+
+| 分支 | 内容 |
+|------|------|
+| [`learning-and-planning`](../../tree/learning-and-planning) | 学习笔记、方向规划、论文阅读 |
+| [`creative-experiments`](../../tree/creative-experiments) | 奇思妙想的实验与实践项目 |
+| [`about-me`](../../tree/about-me) | 关于我的故事与成长记录 |
+
 ```
-My-Road-To-LLM-Architect/
-├── README.md            # 项目说明
-├── notes/               # 学习笔记
-├── experiments/         # 实验代码
-├── papers/              # 论文阅读笔记
-└── projects/            # 实践项目
+main
+├── learning-and-planning/   # 学习与规划
+│   ├── notes/               # 学习笔记
+│   ├── roadmap/             # 路线规划
+│   └── papers/              # 论文阅读笔记
+├── creative-experiments/    # 奇思妙想的实践库
+│   ├── experiments/         # 实验代码
+│   └── projects/            # 实践项目
+└── about-me/                # 关于我
 ```
 
 ## 技术栈
